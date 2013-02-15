@@ -1,0 +1,11 @@
+/* ----- Admin Shortcuts -------- */
+#admin-shortcuts {background: #4D4F53; margin: 0px; padding: 3px 10px;}
+#admin-shortcuts .nav {margin: 0; padding: 0;}
+#admin-shortcuts .content a {background: #4D4F53; color: #fff; padding: 3px 10px;}
+#admin-shortcuts .content a:hover, #admin-shortcuts .block a:active {background: #222; border-radius: 5px;}
+#admin-shortcuts .content > ul > li > a:hover, #admin-shortcuts .content > ul > li > a:active {background: #222; border-radius: 10px;}
+#admin-shortcuts .content ul {background: #4D4F53;}
+#admin-shortcuts .content ul li {display: inline-block; margin: 0;}
+#admin-shortcuts .content ul ul li {display: block;}
+#admin-shortcuts .content ul ul a {padding: 3px 20px;}
+#admin-shortcuts .content .caret {border-bottom-color: #fff; border-top-color: #fff;}
