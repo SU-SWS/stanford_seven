@@ -5,6 +5,7 @@ core = 7.x
 version = 1.0
 
 stylesheets[all][] = css/stanford_seven.css
+
 scripts[] = js/stanford_seven.js
 
 settings[shortcut_module_link] = 1
