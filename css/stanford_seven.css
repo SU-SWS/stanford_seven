@@ -3,7 +3,7 @@
 #admin-shortcuts {background: #4D4F53; margin: 0px; padding: 3px 10px;}
 #admin-shortcuts .nav {margin: 0; padding: 0;}
 #admin-shortcuts .content a {background: #4D4F53; color: #fff; padding: 3px 10px; display:block;}
-#admin-shortcuts .shortcuts-user .content a {display:relative;}
+#admin-shortcuts .shortcuts-user .field-content a {display: inline-block; padding: 0; margin-bottom: 2px;}
 #admin-shortcuts .content a:hover, #admin-shortcuts .block a:active {background: #222; -webkit-border-radius: 10px; -moz-border-radius: 10px; border-radius: 10px; text-decoration: none;}
 
 #admin-shortcuts .content ul.menu {display: block; background: #4D4F53;}
