@@ -13,7 +13,10 @@
 #admin-shortcuts .content ul.menu ul li {float: none; display: block;} */
 
 @media (max-width: 979px) {
-#admin-shortcuts .content a, #admin-shortcuts .shortcuts-user { margin-bottom: -8px; }
+#admin-shortcuts .shortcuts-user { margin-bottom: -8px; }
+}
+@media (max-width: 640px) {
+	
 }
 
 /* ----- Alerts ----------------- */
