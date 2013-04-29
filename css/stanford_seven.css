@@ -5,12 +5,13 @@
 #admin-shortcuts .content a {background: #4D4F53; color: #fff; padding: 3px 10px; display:block;}
 #admin-shortcuts .shortcuts-user .field-content a {display: inline-block; padding: 0; margin-bottom: 2px;}
 #admin-shortcuts .content a:hover, #admin-shortcuts .block a:active {background: #222; -webkit-border-radius: 10px; -moz-border-radius: 10px; border-radius: 10px; text-decoration: none;}
+#admin-shortcuts .shortcuts-user .content a:hover {text-decoration:underline;}
 #admin-shortcuts .block.shortcuts-home {top: -2px;}
 #admin-shortcuts .content ul.menu {display: block; background: #4D4F53;}
 #admin-shortcuts .content ul.menu li {float: left; margin: 0; list-style-image: none; list-style: none; display: block; line-height:20px;}
 #admin-shortcuts .content ul.menu li:hover ul {display: block; position: absolute; top: 23px; z-index: 1000;}
 #admin-shortcuts .content ul.menu ul {display: none; background: #4D4F53;}
-#admin-shortcuts .content ul.menu ul li {float: none; display: block;} */
+#admin-shortcuts .content ul.menu ul li {float: none; display: block;}
 
 @media (max-width: 979px) {
 #admin-shortcuts .block.shortcuts-user {top: -15px; position: relative;}
