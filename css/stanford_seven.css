@@ -10,3 +10,9 @@
 
 #admin-shortcuts .content ul.menu ul {display: none; background: #4D4F53;}
 #admin-shortcuts .content ul.menu ul li {float: none; display: block;} */
+
+/* ----- Alerts ----------------- */
+.alert {background-color: #FCF8E3; border: 1px solid #FBEED5; padding: 8px 35px 8px 14px; color: #C09853;}
+.alert-success {background-color: #DFF0D8; border-color: #D6E9C6; color: #468847;}
+.alert-info {background-color: #D9EDF7; border-color: #BCE8F1; color: #3A87AD;}
+.alert-error {background-color: #F2DEDE; border-color: #EED3D7; color: #B94A48;}
