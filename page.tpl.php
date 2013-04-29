@@ -1,5 +1,5 @@
 <?php if (($user->uid) && ($page['admin_shortcuts'])): ?>
-<div id="admin-shortcuts" class="clearfix"> <?php print render($page['admin_shortcuts']); ?> </div>
+<div id="admin-shortcuts" class="clearfix admin-shortcuts"> <?php print render($page['admin_shortcuts']); ?> </div>
 <?php endif; ?>
 <div id="branding" class="clearfix"> <?php print $breadcrumb; ?> <?php print render($title_prefix); ?>
   <?php if ($title): ?>
