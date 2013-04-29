@@ -13,7 +13,7 @@
 #admin-shortcuts .content ul.menu ul li {float: none; display: block;} */
 
 @media (max-width: 979px) {
-#admin-shortcuts .shortcuts-user {top: -15px; position: relative;}
+#admin-shortcuts .block.shortcuts-user {top: -15px; position: relative;}
 }
 @media (max-width: 640px) {
 	
