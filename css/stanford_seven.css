@@ -13,11 +13,19 @@
 #admin-shortcuts .content ul.menu ul {display: none; background: #4D4F53;}
 #admin-shortcuts .content ul.menu ul li {float: none; display: block;}
 
+/* ----- General styles -------- */
+.well { background-color: #FAFAFA; border: 1px solid #E8E8E8; margin-bottom: 30px; padding: 5px 20px 15px; }
+
+/* ----- Second Sidebar -------- */
+#sidebar-second, #content.sidebar-second { vertical-align:top; display:inline-block; }
+#sidebar-second { width:28%; margin-left:1%; }
+#content.sidebar-second { width:69%; border-right: 1px solid #E8E8E8; padding-right:1%; }
+
 @media (max-width: 979px) {
 #admin-shortcuts .block.shortcuts-user {top: -15px; position: relative;}
 }
 @media (max-width: 640px) {
-	
+	#sidebar-second, #content.sidebar-second { display:block; width:100%; margin-left:0; margin-right:0; border:none;}
 }
 
 /* ----- Alerts ----------------- */

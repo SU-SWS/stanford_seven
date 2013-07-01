@@ -11,9 +11,14 @@ scripts[] = js/stanford_seven.js
 settings[shortcut_module_link] = 1
 
 regions[admin_shortcuts] = Admin Shortcuts (Authenticated Users Only)
-regions[content] = Content
 regions[help] = Help
 regions[page_top] = Page top
+regions[main_top] = Main top
+regions[content_top] = Content top
+regions[content] = Content
+regions[content_bottom] = Content bottom
+regions[main_bottom] = Main bottom
 regions[page_bottom] = Page bottom
+regions[sidebar_second] = Second sidebar
 regions[sidebar_first] = First sidebar
 regions_hidden[] = sidebar_first
