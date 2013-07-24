@@ -1,0 +1,6 @@
+Stanford Seven x.x-x.x xxxx-xx-xx
+---------------------------------
+
+Stanford Seven 7.x-1.0-beta1
+----------------------------
+Initial release

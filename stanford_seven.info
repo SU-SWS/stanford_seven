@@ -2,7 +2,7 @@ name = Stanford Seven
 base theme = seven
 description = A simple administration theme based on Drupal's Seven theme. Adds an extra sidebar and several other block regions to allow for contextual help text and more customized dashboards and administrative pages. Provided by <a href="http://webservices.stanford.edu">Stanford Web Services</a>.
 core = 7.x
-version = 1.0
+version = 7.x-1.0-beta1
 
 stylesheets[all][] = css/stanford_seven.css
 
