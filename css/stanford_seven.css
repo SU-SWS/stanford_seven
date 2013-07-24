@@ -9,7 +9,7 @@
 #admin-shortcuts .block.shortcuts-home {top: -2px;}
 #admin-shortcuts .content ul.menu {display: block; background: #4D4F53;}
 #admin-shortcuts .content ul.menu li {float: left; margin: 0; list-style-image: none; list-style: none; display: block; line-height:20px;}
-#admin-shortcuts .content ul.menu li:hover ul {display: block; position: absolute; top: 23px; z-index: 1000;}
+#admin-shortcuts .content ul.menu li:hover ul {display: block; position: absolute; top: 26px; z-index: 1000;}
 #admin-shortcuts .content ul.menu ul {display: none; background: #4D4F53;}
 #admin-shortcuts .content ul.menu ul li {float: none; display: block;}
 
