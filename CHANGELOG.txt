@@ -1,11 +1,22 @@
 Stanford Seven x.x-x.x xxxx-xx-xx
 ---------------------------------
 
+Stanford Seven 7.x-1.3 2018-06-27
+-----------------------------------------
+- Added composer.json
+- Added .codeclimate.yml
+- Updated to most recent favicon
+
+Stanford Seven 7.x-1.2 2016-07-08
+-----------------------------------------
+- Added font style in the admin shortcut bar
+- Added project identifier to .info file
+
 Stanford Seven 7.x-1.1 2013-10-03
 -----------------------------------------
 Changes since 1.0:
   -Removed Jumpstart specific CSS
-  
+
 Stanford Seven 7.x-1.0 2013-10-01
 -----------------------------------------
 Changes since 1.0-beta1:
