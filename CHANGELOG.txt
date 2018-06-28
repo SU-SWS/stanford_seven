@@ -4,7 +4,7 @@ Stanford Seven x.x-x.x xxxx-xx-xx
 Stanford Seven 7.x-1.3 2018-06-27
 -----------------------------------------
 - Added composer.json
-- Added codeclimage.yml
+- Added .codeclimate.yml
 - Updated to most recent favicon
 - Added project identifier to .info file
 
